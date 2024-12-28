@@ -8,6 +8,8 @@ Embark on an adrenaline-fueled adventure with Alien Invasion, a thrilling airpla
 - Evolutionary Aircraft: Experience the thrill of upgrading your airplane with enhanced capabilities as you advance through levels.
 
 - Dynamic Challenges: Encounter increasingly difficult challenges with each level, keeping you on the edge of your seat.
+![Screenshot 2024-06-08 192533](https://github.com/user-attachments/assets/6adf6d74-f4fc-4f2d-89da-6454e9629bc5)
+![Screenshot 2024-06-08 192549](https://github.com/user-attachments/assets/14f8821c-448b-49c3-97ab-83f6c73b97de)
 
 **Technologies Used**
 - Python: Programming language used for game development.
